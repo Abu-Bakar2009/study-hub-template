@@ -62,21 +62,21 @@ activities = {
     "Drama Society": {
         "description": "Participate in theater productions and acting workshops",
         "schedule": "Thursdays, 4:00 PM - 5:30 PM",
-        "max_participants": 25,
+        "max_participants": 16,
         "participants": ["amelia@mergington.edu", "benjamin@mergington.edu"]
     },
     # Intellectual activities
     "Math Olympiad": {
         "description": "Prepare for math competitions and solve challenging problems",
         "schedule": "Fridays, 2:00 PM - 3:30 PM",
-        "max_participants": 16,
-        "participants": ["elijah@mergington.edu", "charlotte@mergington.edu"]
+        "max_participants": 14,
+        "participants": ["charlotte@mergington.edu", "elijah@mergington.edu"]
     },
     "Science Club": {
         "description": "Conduct experiments and explore scientific concepts",
         "schedule": "Wednesdays, 4:00 PM - 5:00 PM",
         "max_participants": 20,
-        "participants": ["william@mergington.edu", "sophia@mergington.edu"]
+        "participants": ["logan@mergington.edu", "harper@mergington.edu"]
     }
 }
 
